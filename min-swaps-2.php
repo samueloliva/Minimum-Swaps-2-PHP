@@ -5,6 +5,8 @@
     Compiler Message: Your code did not execute within the time limits. 
     Please optimize your code. For more information on execution time limits, 
     refer to the environment page
+    
+    5 tests failed
 
 */
 
