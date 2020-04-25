@@ -1,4 +1,5 @@
 <?php
+// This solution is not optimal and didn't pass all HackerRank tests.
 
 // Complete the minimumSwaps function below.
 function minimumSwaps($arr) {   
