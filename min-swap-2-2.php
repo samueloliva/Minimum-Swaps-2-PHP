@@ -1,5 +1,7 @@
 <?php
 
+// Three tests failed
+
 // Complete the minimumSwaps function below.
 function minimumSwaps($arr) {   
     $n = sizeof($arr);
