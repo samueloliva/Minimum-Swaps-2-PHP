@@ -18,7 +18,7 @@ function minimumSwaps($arr) {
     $init = 1;
     while ($swapping) {
         $swapping = false;
-        for ($pos=$init; $pos<=$n; $pos++) {
+        for ($pos=$init; $pos<$n; $pos++) {
             if ( $pos != $arr[$pos-1] ) {
                 $curr = array_search($pos, $arr);
                 $temp = $arr[$pos-1];
