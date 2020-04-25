@@ -1,5 +1,12 @@
 <?php
-// This solution is not optimal and didn't pass all HackerRank tests.
+/* 
+    This solution is not optimal and didn't pass all HackerRank tests.
+    Terminated due to timeout :(
+    Compiler Message: Your code did not execute within the time limits. 
+    Please optimize your code. For more information on execution time limits, 
+    refer to the environment page
+
+*/
 
 // Complete the minimumSwaps function below.
 function minimumSwaps($arr) {   
